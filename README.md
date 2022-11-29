@@ -1,5 +1,5 @@
 # Post-Quantum-Cryptography
 
-### [presentation1 makes use of a SageMath 9.5 Kernel](presentation1-dmcgrath.pynb)
+### [First half of presentation uses SageMath 9.5 Kernel](presentation1-dmcgrath.ipynb)
 
-### [presenation2 makes use of a Julia 1.7 Kernel](presentation2-dmcgrath.pynb)
+### [Second half of presentation uses Julia 1.7 Kernel](presentation2-dmcgrath.ipynb)
