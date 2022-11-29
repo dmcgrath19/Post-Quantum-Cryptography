@@ -1,4 +1,4 @@
-# Post-Quantum-Cryptography
+# Post-Quantum Cryptography
 
 ### [First half of presentation uses SageMath 9.5 Kernel](presentation1-dmcgrath.ipynb)
 
